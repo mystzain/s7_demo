@@ -7,5 +7,10 @@ we add a new message.
 we add a new message again.
 ---dev.v1---
 new branch
+<<<<<<< HEAD
 ---v3---
 edit in master
+=======
+---feature1---
+add feature1 branch
+>>>>>>> feature1
